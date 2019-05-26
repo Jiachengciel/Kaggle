@@ -2,7 +2,7 @@
 
 利用MNIST手写图像数据集， 识别手写图像数字
 
-练习Tensorflow, sklearn, 熟悉一下CNN算法
+练习Pytorch, sklearn, 熟悉一下CNN算法
 
 ****
 
