@@ -1,14 +1,25 @@
-# 数字识别
+# Digt Recognizer
 
-利用MNIST手写图像数据集， 识别手写图像数字
+Digit Recognizer with data on Kaggle
 
-练习Pytorch, sklearn, 熟悉一下CNN算法
+To find the origin source click [here](https://www.kaggle.com/c/digit-recognizer)
 
 ****
 
-|作者|家丞|
+|Author|Jiacheng|
 |---|---
 |E-mail|xjsk1016tansuo@stu.xjtu.edu.cn
 | |Jiacheng.Liu@eleves.ec-nantes.fr
 
 ****
+
+|Method|Accuracy|Training Time|
+|---|---|---
+|[Logistic Regression](./Logistic-Regression.ipynb)|83.83%|103.52s
+|[Neural Network](.//Neural%20Network.ipynb)|96.64%|386.67s
+|[CNN](./CNN.ipynb)|98.81%|8397.25s
+
+Mainly based on `Pytorch` and `Sklearn`
+
+To view the codes based on `Tensorflow`, click [here](https://github.com/Jiachengciel/Digit-Recognizer)
+  
